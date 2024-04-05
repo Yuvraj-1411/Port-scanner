@@ -30,7 +30,8 @@ Run the port scanner:
 ```bash
   python portScanner.py
 ```
-
+## Contributing
+Contributions are welcome! Feel free to open issues or pull requests to suggest improvements, report bugs, or add new features.
 
    
 
